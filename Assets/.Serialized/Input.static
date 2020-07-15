@@ -1,0 +1,5 @@
+[Zios.Systems.Input.Input]
+actions = {}
+threadRate = 300
+threaded = true
+debug = true

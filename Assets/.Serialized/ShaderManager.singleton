@@ -1,0 +1,22 @@
+[Zios.Unity.Systems.ShaderManager.ShaderManager]
+shadingBlend = Multiply
+alphaCutoff = 0.3
+shadowType = Smooth
+shadowMode = Shaded
+shadowBlend = Lerp
+shadowColor = #0000003F
+shadowSteps = 3
+lightmapType = Smooth
+lightmapMode = Shaded
+lightmapBlend = Lerp
+lightmapColor = #0000003F
+lightmapSteps = 3
+fadeType = Smooth
+fadeGrayscale = Off
+fadeBlend = Screen
+cullDistance = 150
+fadeSteps = 3
+fadeStartDistance = 80
+fadeEndDistance = 100
+fadeStartColor = #000000
+fadeEndColor = #00000000

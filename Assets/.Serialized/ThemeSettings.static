@@ -1,0 +1,16 @@
+[Zios.Unity.Editor.Systems.Themes.ThemeSettings]
+hoverResponse = None
+autoBalance = Intensity
+storagePath = null
+themeName = Default
+fontset = Classic
+palette = Classic
+iconset = Default
+skinset = Default
+colors = {}
+variants = {}
+showColorsAdvanced = false
+showFontsAdvanced = false
+separatePlaymode = false
+debug = true
+disabled = false

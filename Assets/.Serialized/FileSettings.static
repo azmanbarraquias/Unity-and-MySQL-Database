@@ -1,0 +1,7 @@
+[Zios.Systems.File.FileSettings]
+rootPath = ./
+dataPath = ./Assets/
+ignoreFiles = {.meta}
+ignoreFolders = {~,.vs,.svn,.git,./Temp,./Library,./obj}
+showUpdates = false
+showTimes = false

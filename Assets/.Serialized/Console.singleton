@@ -1,0 +1,11 @@
+[Zios.Unity.Systems.Console.Console]
+disabled = false
+triggerKey = F12
+speed = 5
+height = 0.25
+configFile = Game.cfg
+logFile = Log.txt
+logLineSize = 150
+logFontSize = 15
+logFontColor = 7
+logFontAllowColors = true

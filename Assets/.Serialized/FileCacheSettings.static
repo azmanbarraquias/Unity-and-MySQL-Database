@@ -1,0 +1,4 @@
+[Zios.Systems.File.Cache.FileCacheSettings]
+path = ./File.cache
+showUpdates = false
+showTimes = false

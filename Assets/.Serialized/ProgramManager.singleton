@@ -1,0 +1,6 @@
+[Zios.Unity.Systems.ProgramManager.ProgramManager]
+pixelSnap = {false,false,false}
+maxFPS = -1
+vsync = 0
+refreshRate = 60
+resolution = {1920,1080
